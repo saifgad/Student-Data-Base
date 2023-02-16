@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1676542374 source:f:\amit\student data base\new folder (2)\data base\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1676541904 f:\amit\student data base\new folder (2)\data base\prototypes.h
+
+1676541407 source:f:\amit\student data base\new folder (2)\data base\func..c
+	"Prototypes.h"
+
+1676542913 source:f:\amit\student data base\data\data base\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1676542926 f:\amit\student data base\data\data base\prototypes.h
+	<stdio.h>
+	<stdlib.h>
+
+1676543141 source:f:\amit\student data base\data\data base\func..c
+	"Prototypes.h"
+
